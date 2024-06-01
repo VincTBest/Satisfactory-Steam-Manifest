@@ -1,0 +1,44 @@
+"AppState"
+{
+	"appid"		"526870"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Satisfactory"
+	"StateFlags"		"6"
+	"installdir"		"Satisfactory"
+	"LastUpdated"		"1711307171"
+	"LastPlayed"		"1709665664"
+	"SizeOnDisk"		"860767436"
+	"StagingSize"		"0"
+	"buildid"		"13812009"
+	"LastOwner"		"12345678901234567"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"417135344"
+	"BytesDownloaded"		"0"
+	"BytesToStage"		"843533718"
+	"BytesStaged"		"0"
+	"TargetBuildID"		"14519683"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"1717388325"
+	"InstalledDepots"
+	{
+		"526870"
+		{
+			"manifest"		"5493033448199873136"
+			"size"		"860767436"
+		}
+	}
+	"SharedDepots"
+	{
+		"228988"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"MountedConfig"
+	{
+		"language"		"english"
+	}
+}
